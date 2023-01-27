@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RPMH12-0.5")(type "KiCad")(uri "/Users/maximilianfrohlich/Downloads/LIB_RPMH12-0.5/RPMH12-0.5/RPMH12-0.5KiCad/RPMH12-0.5.kicad_sym")(options "")(descr ""))
+  (lib (name "RPM5.0-1.0-CT")(type "KiCad")(uri "/Users/maximilianfrohlich/Downloads/LIB_RPM5.0-1.0-CT/RPM5.0-1.0-CT/RPM5-1.0KiCad/RPM5.0-1.0-CT.kicad_sym")(options "")(descr ""))
+)

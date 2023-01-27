@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "S110Footprint")(type "KiCad")(uri "/Users/maximilianfrohlich/Downloads/LIB_S110FP/S110FP/S110Footprint")(options "")(descr ""))
+  (lib (name "RPMH12-0")(type "KiCad")(uri "/Users/maximilianfrohlich/Downloads/LIB_RPMH12-0.5/RPMH12-0.5/RPMH12-0.5KiCad")(options "")(descr ""))
+  (lib (name "RPM5-1")(type "KiCad")(uri "/Users/maximilianfrohlich/Downloads/LIB_RPM5.0-1.0-CT/RPM5.0-1.0-CT/RPM5-1.0KiCad")(options "")(descr ""))
+  (lib (name "NCP51810KiCad")(type "KiCad")(uri "/Users/maximilianfrohlich/Downloads/LIB_NCP51810AMNTWG/NCP51810AMNTWG/NCP51810KiCad")(options "")(descr ""))
+)
